@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:/Users/shtiruma/Desktop/case_study/mlopsinabox_install_env/predict_income/data/external
